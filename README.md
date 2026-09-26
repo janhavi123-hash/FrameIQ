@@ -2,6 +2,9 @@
 
 A real-time object detection and tracking tool. Detects and tracks multiple objects in video, assigns persistent IDs, and counts unique objects seen — all through a browser-based interface.
 
+## Demo Video
+📹 [Watch the demo video](YOUR_VIDEO_URL_HERE)
+
 ## Features
 - Object detection using YOLOv8 (Ultralytics)
 - Multi-object tracking with persistent IDs using ByteTrack
